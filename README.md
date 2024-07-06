@@ -1,2 +1,2 @@
 # custom_husky
-Custom navigation node for autonous operation of Husky robot
+Custom navigation node for autonomous operation of Husky robot
